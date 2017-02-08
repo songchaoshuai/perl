@@ -1,0 +1,17 @@
+###############################
+1 Descriptrion:
+The script is for the kpt_utils test!
+
+2 Usage:
+Usage: perl kpt_utils_itp.pl <SHIM_AUTO_DIR> <CONF_FILE> <TYPE OF TESTING>
+
+AUTO_DIR      : Path where all the scripts are placed
+
+CONF_FILE     : Configuration File appended with path
+
+TYPE OF TEST  : On Selecting Operation TYPE, This argument is mandator
+                Eg: ALL, CLIENT, AGENT, WPK
+Eg: perl  kpt_utils_itp.pl /home/automation/  kpt_utils.conf ALL
+
+
+
